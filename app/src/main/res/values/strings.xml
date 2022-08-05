@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListView_1</string>
+    <string-array name="city">
+        <item>Taipei</item>
+        <item>Hsinchu</item>
+        <item>Taichung</item>
+    </string-array>
+
+    <string-array name="food">
+        <item>Cola Light</item>
+        <item>Cola Zero</item>
+        <item>Cola</item>
+        <item>French Fries</item>
+        <item>Hamburger</item>
+        <item>KFC</item>
+    </string-array>
+    <string-array name="picture">
+        <item>@drawable/coca_cola_light</item>
+        <item>@drawable/coca_cola_zero</item>
+        <item>@drawable/coca_cola</item>
+        <item>@drawable/french_fries</item>
+        <item>@drawable/hamburger</item>
+        <item>@drawable/kfc</item>
+    </string-array>
+</resources>
