@@ -2,6 +2,17 @@
 >[2022-08-05 Android課程]
 
 ## project : ListView_1
+主要目的是建立縣市名稱下拉選單和顯示食物清單，
+使用者點選後，顯示對話框確認使用者所選的縣市名稱和食物品項後，
+並跳至另一個頁面顯示食物品項名稱與對應的食物圖片。
+
+![Screenshot_1659860861](https://user-images.githubusercontent.com/37395516/183282552-81b65a82-774e-4b54-a29d-cdbfe80b59e7.png)
+![Screenshot_1659860868](https://user-images.githubusercontent.com/37395516/183282574-93f6b3ca-f19c-433a-9f2e-3e6fe4bc1f9e.png)
+
+![Screenshot_1659860879](https://user-images.githubusercontent.com/37395516/183282577-62853ec6-8d6d-46aa-bd35-cbe4a9ec653d.png)
+![Screenshot_1659860884](https://user-images.githubusercontent.com/37395516/183282587-ac4fa75a-dbcd-4577-97f5-47f9ff56ff4f.png)
+
+
 
 #### 0. 開新的project , 取名為 "ListView_1"
 
@@ -189,3 +200,8 @@ public class DisplayActivity extends AppCompatActivity {
 
 並在 DisplayActivity 新增 TypedArray pictureList，pictureList = getResources().obtainTypedArray(R.array.picture);
 取出array，比較特別的是使用TypedArray類別。
+
+
+
+
+
